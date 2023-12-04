@@ -11,19 +11,8 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/sun2.gif){: .align-right width="300px"}
-<!--👨🏻‍💻 I'm a BS-MS dual degree student at the Indian Institute of Science Education and Research (IISER), Pune.
-
-🔬 I'm interested in the confluence of astronomy, data science, and statistics.
-
-📚 I am presently doing my Master's thesis focused on characterizing Coronal Mass Ejection (CME) Sheaths.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.-->
-I’m passionate about the confluence of astronomy, data science, and statistics. My core interests have always revolved
-around observational astronomy and plasma physics. I specialize in modeling and analyzing the data from the Sun and
-other astrophysical systems. My research interest lies in analyzing heliophysical data to uncover underlying physical
-phenomena and, furthermore, look at their impact on Earth’s geophysical systems. Given an opportunity, I would be
-keen on developing or organizing a platform that presents scientific data and findings in a simplified manner, with the
-aim of promoting science education among the general public.
+ I'm a BS-MS dual degree student at the Indian Institute of Science Education and Research (IISER), Pune. 
+I am particularly drawn to the intersection of astronomy, data science, and statistics, finding great satisfaction in working at their confluence. Presently doing my Master's thesis focused on characterizing Coronal Mass Ejection (CME) Sheaths under the supervision of Prof. Prasad Subramanian (IISER Pune)
 
 # Selected Experience
 
