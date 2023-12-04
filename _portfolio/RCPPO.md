@@ -1,5 +1,5 @@
 ---
-title: "RCPPO"
+title: "Characterizing Turbulence in CME Sheaths (Master's Project)"
 excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
