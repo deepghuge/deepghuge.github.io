@@ -1,6 +1,6 @@
 ---
 title: "Characterizing Turbulence in CME Sheaths (Master's Project)"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/masters.png' width="300">"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/masters.png' width='300'>"
 collection: portfolio
 ---
 
