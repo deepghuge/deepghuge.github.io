@@ -8,7 +8,7 @@ main:
     url: /portfolio/
 
   - title: "Blog Posts"
-   url: /year-archive/
+    url: /year-archive/
   
   #- title: "Publications"
   #  url: /publications/
