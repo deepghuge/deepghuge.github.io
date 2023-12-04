@@ -10,12 +10,12 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/sun.gif){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/sun2.gif){: .align-right width="300px"}
 👨🏻‍💻 I'm a BS-MS dual degree student at the Indian Institute of Science Education and Research (IISER), Pune.
 
 🔬 My research interests are in the confluence of astronomy, data science, and statistics.
 
-📚 I am presently doing my Master's research focused on characterizing Coronal Mass Ejection (CME) Sheaths.
+📚 I am presently doing my Master's thesis focused on characterizing Coronal Mass Ejection (CME) Sheaths.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
