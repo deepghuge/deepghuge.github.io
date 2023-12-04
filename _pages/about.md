@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/sun.gif){: .align-right width="300px"}
 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
