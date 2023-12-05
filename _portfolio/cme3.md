@@ -1,6 +1,6 @@
 ---
 title: "Automated PDF Generation and Emailing with Google Apps Script (Automation Project)"
-excerpt: "<img src='/images/mail.jpg' width='615'>"
+excerpt: "<img src='/images/mail.jpg' height='415' width='615'>"
 collection: portfolio
 ---
 
