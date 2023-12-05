@@ -1,5 +1,5 @@
 ---
-title: "Changes in spatial patterns of lightning during Covid Lockdown over South Asian Region"
+title: "Changes in spatial patterns of lightning </br> during Covid Lockdown over South Asian Region"
 excerpt: "<img src='/images/lightning.jpg' width='615'>"
 collection: portfolio
 ---
