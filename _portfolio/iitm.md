@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Turbulence in CME Sheaths (Master's Project)"
+title: "Changes in spatial patterns of lightning during Covid Lockdown"
 excerpt: "<img src='/images/lightning.jpg' width='615'>"
 collection: portfolio
 ---
