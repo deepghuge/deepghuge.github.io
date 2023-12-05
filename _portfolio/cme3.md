@@ -1,6 +1,6 @@
 ---
-title: "Spatial lightning changes during Covid Lockdown over South Asian Region"
-excerpt: "<img src='/images/lightning.jpg' width='615'>"
+title: "Automated PDF Generation and Emailing with Google Apps Script (Automation Project)"
+excerpt: "<img src='/images/mail.jpg' width='615'>"
 collection: portfolio
 ---
 
