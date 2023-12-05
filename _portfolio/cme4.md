@@ -1,6 +1,6 @@
 ---
-title: "Spatial lightning changes during Covid Lockdown over South Asian Region"
-excerpt: "<img src='/images/lightning.jpg' width='615'>"
+title: "Identifying galaxies, quasars, and stars with machine learning"
+excerpt: "<img src='/images/wolfram.png' width='615'>"
 collection: portfolio
 ---
 
