@@ -4,4 +4,7 @@ excerpt: "<img src='/images/mail.jpg' height='315' width='615'>"
 collection: portfolio
 ---
 
-In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
+In the course of this project, I developed an automated system for generating dynamic PDF slips from a Google Docs template, utilizing variable inputs sourced from a Google Sheet. The script integrates this dynamic PDF generation process into an email template, wherein variable sender names are incorporated. Consequently, the script modifies the variable fields within the email, attaches the pertinent PDFs, and dispatches the customized emails to designated recipients. Remarkably, when provided with a list of 1000 senders, the script demonstrates the capability to dispatch personalized emails with attached PDFs within a concise timeframe of approximately 15 minutes.
+The GitHub repository containing the code for this project is accessible [here](https://github.com/deepghuge/PDF-builder-mailer)
+
+This Project was part of internship that I did at Beechtree IT solutions, Nagpur (remotely). This script was then used to send recipts to clients affiliated to the services provide by Beechtree IT Sloutions.
