@@ -12,8 +12,8 @@ In this self-guided project, I created a Flask web application for real-time for
 <br>Layer (type)&nbsp;&nbsp;&nbsp;&nbsp; Output Shape&nbsp;&nbsp;&nbsp;&nbsp;Param #
 <br>===================================================
 <br>lstm1 (RNN)&nbsp;&nbsp;&nbsp;&nbsp;(None, 34, 256)&nbsp;&nbsp;&nbsp;&nbsp;278528
-<br>lstm2 (RNN)&nbsp;&nbsp;&nbsp;&nbsp;(None, 256)&nbsp;&nbsp;&nbsp;&nbsp;525312
-<br>dense (Dense)&nbsp;&nbsp;&nbsp;&nbsp;(None, 2)&nbsp;&nbsp;&nbsp;&nbsp;514
+<br>lstm2 (RNN)&nbsp;&nbsp;&nbsp;&nbsp;(None, 256)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;525312
+<br>dense (Dense)&nbsp;&nbsp;&nbsp;&nbsp;(None, 2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;514
 <br>===================================================
 <br>Total params: 804354 (3.07 MB)
 <br>Trainable params: 804354 (3.07 MB)
