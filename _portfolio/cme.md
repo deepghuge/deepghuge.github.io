@@ -23,3 +23,16 @@ One of the key outcomes of this project is to relate it to the space weather con
 <br>-> Try to create the smallest sliced time window to where the separation in CME sheath, MC and background solar wind is possible.
 <br>-> Explore the possibility of creating a statistics-based prediction model/algorithm using the modulation index to identify the sheath-MC boundary.
 <br>-> Look deeper into the connections between the modulation index and the Dst Index.
+
+(I will keep updating this as the project proceeds)
+
+<br> Some good References:
+<br> [1] Gosling, John T. ”The solar flare myth.” Journal of Geophysical Research:
+Space Physics 98, no. A11 (1993): 18937-18949.
+<br> [2] J. Kilpua, E., et al. ”Solar Wind Properties and Geospace Impact of Coronal Mass Ejection-Driven Sheath
+Regions: Variation and Driver Dependence.” Space Weather, vol. 17, no. 8, 2019, pp. 1257-1280,
+https://doi.org/10.1029/2019SW002217.
+<br> [3] Wei, Fengsi, et al. ”Identification of the Magnetic Cloud Boundary Layers.” Journal of Geophysical Research:
+Space Physics, vol. 108, no. A6, 2003, https://doi.org/10.1029/2002JA009511
+<br> [4] Salman, T. et al. “Properties of the Sheath Regions of Coronal Mass Ejections with or without Shocks from
+STEREO in situ Observations near 1 au”. Astrophysical Journal, vol. 904, p 177, 2020
